@@ -6,9 +6,7 @@
 ## 2.API
 
 ### Get Product By Condition 
-- Endpoint: `GET /cart/getProductWithCondition
-#### Example
-- Request: 'GET /cart/getProductWithCondition
+- Request: 'GET /cart/getProductWithCondition`
   ```
   {
     "price": 12000,
@@ -44,3 +42,5 @@
     }
   ]
   ```
+### Add Items To Cart
+- Request: 
