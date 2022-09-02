@@ -9,5 +9,11 @@
 - Endpoint: `GET /cart/getProductWithCondition
 #### Example
 - Request: 'GET /cart/getProductWithCondition
+  ```
+  {
+    "price": 15000,
+    "condition":"LESS_THAN"
+  }
+  ```
 - Response:
   ```
